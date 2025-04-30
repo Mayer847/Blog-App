@@ -6,7 +6,7 @@ gem "jwt"
 gem 'sidekiq'
 
 group :development, :test do
-  gem 'rspec-rails', '~> 7.1'
+  gem 'rspec-rails', '~> 8.0'
 end
 
 
